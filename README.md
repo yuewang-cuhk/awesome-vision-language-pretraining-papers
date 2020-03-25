@@ -8,6 +8,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
   * [Task-specifc](#task-specifc)
   * [Multi-task Learning](#multi-task-learning)
 * [Video-based VL-PTMs](#video-based-vl-ptms)
+* [Other Resources](#other-resources)
 
 
 # Image-based VL-PTMs
@@ -29,7 +30,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 [UNITER: Learning Universal Image-text Representations](https://arxiv.org/abs/1909.11740), arXiv 2019/09 [[code]](https://github.com/ChenRocks/UNITER)
 
-## Task-specifc
+## Task-specific
 
 [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054), EMNLP 2019, [[code]](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)
 
@@ -59,3 +60,22 @@ Large-scale Weak-supervised Image-text Data](https://arxiv.org/abs/2001.07966), 
 Contrastive Bidirectional Transformers](https://arxiv.org/abs/1906.05743), arXiv 2019/06
 
 [UniViLM: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](https://arxiv.org/abs/2002.06353), arXiv 2020/02
+
+# Other Resources
+
+[Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271), arXiv 2020/03
+
+[A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278), arXiv 2020/03
+
+[Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358), arXiv 2019
+
+[Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409), arXiv 2019 
+
+[Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406), TPAMI 2018
+
+[A Comprehensive Survey of Deep Learning for Image Captioning](https://arxiv.org/abs/1810.04020), ACM Computing Surveys 2018
+
+[Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
+
+[A repository of vision and language papers](https://github.com/sangminwoo/awesome-vision-and-language-papers)
+
