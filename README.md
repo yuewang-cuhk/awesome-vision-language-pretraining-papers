@@ -4,17 +4,16 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 ## Table of Contents
 
 * [Image-based VL-PTMs](#image-based-vl-ptms)
-  * [General](#general)
+  * [Representation Learning](#representation-learning)
   * [Task-specific](#task-specific)
-  * [Multi-task Learning](#multi-task-learning)
-  * [Embedding Analysis](#embedding-analysis)
+  * [Other Analysis](#other-analysis)
 * [Video-based VL-PTMs](#video-based-vl-ptms)
 * [Other Resources](#other-resources)
 
 
 # Image-based VL-PTMs
 
-## General
+## Representation Learning
 
 [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265), NeurIPS 2019 [[code]](https://github.com/jiasenlu/vilbert_beta)
 
@@ -46,23 +45,18 @@ Large-scale Weak-supervised Image-text Data](https://arxiv.org/abs/2001.07966), 
 
 **Image captioning**: [XGPT: Cross-modal Generative Pre-Training for Image Captioning](https://arxiv.org/abs/2003.01473), arXiv 2020/03
 
-## Multi-task Learning
+## Other Analysis
 
-[12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020, [[code]](https://github.com/facebookresearch/vilbert-multi-task) 
+**Multi-task Learning**, [12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020, [[code]](https://github.com/facebookresearch/vilbert-multi-task) 
 
-[All-in-One Image-Grounded Conversational Agents](https://arxiv.org/abs/1912.12394), arXiv 2019/12
-
-## Embedding Analysis
-
-[Measuring Social Biases in Grounded Vision and Language Embeddings](https://arxiv.org/abs/2002.08911), arXiv 2020/02, [[code]](https://github.com/candacelax/bias-in-vision-and-language)
+**Social Bias in VL Embedding**, [Measuring Social Biases in Grounded Vision and Language Embeddings](https://arxiv.org/abs/2002.08911), arXiv 2020/02, [[code]](https://github.com/candacelax/bias-in-vision-and-language)
   
   
 # Video-based VL-PTMs
 
 [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766), ICCV 2019
 
-[Learning Video Representations Using
-Contrastive Bidirectional Transformers](https://arxiv.org/abs/1906.05743), arXiv 2019/06, (**CBT**)
+[Learning Video Representations Using Contrastive Bidirectional Transformers](https://arxiv.org/abs/1906.05743), arXiv 2019/06, (**CBT**)
 
 [UniViLM: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](https://arxiv.org/abs/2002.06353), arXiv 2020/02
 
