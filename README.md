@@ -48,7 +48,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 **VisDial**: [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), arXiv 2019/12, [[code]](https://github.com/vmurahari3/visdial-bert), (**VisDial-BERT**)
 
-**VisDial**: [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), arXiv 2020/04, [[code]](https://github.com/yuewang-cuhk/VD-BERT)
+**VisDial**: [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), arXiv 2020/04 (**SOTA** in the VisDial leaderboard)
 
 **VLN**: [Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://arxiv.org/abs/2002.10638), CVPR 2020, [[code]](https://github.com/weituo12321/PREVALENT), (**PREVALENT**)
 
