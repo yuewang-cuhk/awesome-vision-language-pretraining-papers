@@ -1,5 +1,5 @@
 # Recent Advances in Vision and Language PreTrained Models (VL-PTMs)
-Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2020/04/29.
+Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2020/06/09.
 
 ## Table of Contents
 
@@ -65,6 +65,8 @@ Large-scale Weak-supervised Image-text Data](https://arxiv.org/abs/2001.07966), 
 **Multi-task Learning**, [12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020, [[code]](https://github.com/facebookresearch/vilbert-multi-task) 
 
 **Social Bias in VL Embedding**, [Measuring Social Biases in Grounded Vision and Language Embeddings](https://arxiv.org/abs/2002.08911), arXiv 2020/02, [[code]](https://github.com/candacelax/bias-in-vision-and-language)
+
+**In-depth analysis**, [Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2005.07310), arXiv 2020/05
   
   
 # Video-based VL-PTMs
@@ -81,6 +83,7 @@ Large-scale Weak-supervised Image-text Data](https://arxiv.org/abs/2001.07966), 
 
 [UniViLM: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](https://arxiv.org/abs/2002.06353), arXiv 2020/02
 
+[HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training](https://arxiv.org/abs/2005.00200), arXiv 2020/05
 
 # Speech-based VL-PTMs
 
