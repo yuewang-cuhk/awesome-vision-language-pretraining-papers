@@ -1,5 +1,5 @@
 # Recent Advances in Vision and Language PreTrained Models (VL-PTMs)
-Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2020/06/19.
+Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2020/07/06.
 
 ## Table of Contents
 
@@ -38,6 +38,8 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/pdf/2004.06165.pdf), arXiv 2020/04
 
 [Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers](https://arxiv.org/abs/2004.00849), arXiv 2020/04
+
+[ERNIE-VIL: KNOWLEDGE ENHANCED VISION-LANGUAGE REPRESENTATIONS THROUGH SCENE GRAPH](https://arxiv.org/abs/2006.16934), arXiv 2020/06
 
 
 ## Task-specific
@@ -97,6 +99,8 @@ Large-scale Weak-supervised Image-text Data](https://arxiv.org/abs/2001.07966), 
 [ActBERT: Learning Global-Local Video-Text Representations](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.html), ICCV 2020
 
 [HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training](https://arxiv.org/abs/2005.00200), arXiv 2020/05
+
+[Video-Grounded Dialogues with Pretrained Generation Language Models](https://arxiv.org/abs/2006.15319), ACL 2020
 
 # Speech-based VL-PTMs
 
