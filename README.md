@@ -1,5 +1,5 @@
 # Recent Advances in Vision and Language PreTrained Models (VL-PTMs)
-Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2020/08/31.
+Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2020/10/09.
 
 ## Table of Contents
 
@@ -44,6 +44,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 [DeVLBert: Learning Deconfounded Visio-Linguistic Representations](https://arxiv.org/abs/2008.06884), ACM MM 2020, [[code]](https://github.com/shengyuzhang/DeVLBert)
 
+[SEMVLP: VISION-LANGUAGE PRE-TRAINING BY ALIGNING SEMANTICS AT MULTIPLE LEVELS](https://openreview.net/forum?id=Wg2PSpLZiH), ICLR 2021 submission
 
 ## Task-specific
 
@@ -51,9 +52,9 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 **TextVQA**: [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/abs/1911.06258), CVPR 2020, [[code]](https://github.com/ronghanghu/pythia/tree/project/m4c/projects/M4C), (**M4C**)
 
-**VisDial**: [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), arXiv 2019/12, ECCV 2020 [[code]](https://github.com/vmurahari3/visdial-bert), (**VisDial-BERT**)
+**VisDial**: [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), EMNLP 2020 [[code]](https://github.com/salesforce/VD-BERT), (**VD-BERT**)
 
-**VisDial**: [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://arxiv.org/abs/2004.13278), arXiv 2020/04 (**SOTA** in the VisDial leaderboard)
+**VisDial**: [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://arxiv.org/abs/1912.02379), ECCV 2020 [[code]](https://github.com/vmurahari3/visdial-bert), (**VisDial-BERT**)
 
 **VLN**: [Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training](https://arxiv.org/abs/2002.10638), CVPR 2020, [[code]](https://github.com/weituo12321/PREVALENT), (**PREVALENT**)
 
@@ -64,6 +65,7 @@ Large-scale Weak-supervised Image-text Data](https://arxiv.org/abs/2001.07966), 
 
 **Visual Question Generation**: [BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations](https://arxiv.org/abs/2002.10832), arXiv 2020/02
 
+**Text-image retrieval**: [CROSS-PROBE BERT FOR EFFICIENT AND EFFECTIVE CROSS-MODAL SEARCH](https://openreview.net/forum?id=bW9SYKHcZiz), ICLR 2021 submission. 
 
 ## Other Analysis
 
