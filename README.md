@@ -30,7 +30,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/pdf/1909.11059.pdf), AAAI 2020, [[code]](https://github.com/LuoweiZhou/VLP), (**VLP**)
 
-[UNITER: Learning Universal Image-text Representations](https://arxiv.org/abs/1909.11740), arXiv 2019/09 [[code]](https://github.com/ChenRocks/UNITER)
+[UNITER: Learning Universal Image-text Representations](https://arxiv.org/abs/1909.11740), arXiv 2019/09, ECCV 2020, [[code]](https://github.com/ChenRocks/UNITER)
 
 [Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/abs/1912.03063), arXiv 2019/12
 
