@@ -1,5 +1,5 @@
 # Recent Advances in Vision and Language PreTrained Models (VL-PTMs)
-Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2020/12/09.
+Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2020/12/12.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/pdf/1909.11059.pdf), AAAI 2020, [[code]](https://github.com/LuoweiZhou/VLP), (**VLP**)
 
-[UNITER: Learning Universal Image-text Representations](https://arxiv.org/abs/1909.11740), arXiv 2019/09, ECCV 2020, [[code]](https://github.com/ChenRocks/UNITER)
+[UNITER: Learning Universal Image-text Representations](https://arxiv.org/abs/1909.11740), ECCV 2020, [[code]](https://github.com/ChenRocks/UNITER)
 
 [Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks](https://arxiv.org/abs/1912.03063), arXiv 2019/12
 
@@ -81,11 +81,11 @@ Large-scale Weak-supervised Image-text Data](https://arxiv.org/abs/2001.07966), 
 
 **Social Bias in VL Embedding**, [Measuring Social Biases in Grounded Vision and Language Embeddings](https://arxiv.org/abs/2002.08911), arXiv 2020/02, [[code]](https://github.com/candacelax/bias-in-vision-and-language)
 
-**In-depth Analysis**, [Are we pretraining it right? Digging deeper into visio-linguistic pretraining](https://arxiv.org/abs/2004.08744), arXiv 2020/04
+**In-depth Analysis**, [Are we pretraining it right? Digging deeper into visio-linguistic pretraining](https://arxiv.org/abs/2004.08744),
 
-**In-depth Analysis**, [Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2005.07310), arXiv 2020/05, ECCV 2020 Spotlight
+**In-depth Analysis**, [Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2005.07310), ECCV 2020 Spotlight
 
-**Adversarial Training**, [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195), arXiv 2020/06
+**Adversarial Training**, [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195), NeurIPS 2020 Spotlight
 
 **Adaptive Analysis**, [Adaptive Transformers for Learning Multimodal Representations](https://arxiv.org/abs/2005.07486), ACL SRW 2020
 
