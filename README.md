@@ -110,6 +110,8 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 [Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/abs/2002.00163), AAAI2020 DSTC8 workshop
 
+[Learning Spatiotemporal Features via Video and Text Pair Discrimination](https://arxiv.org/abs/2001.05691), arXiv 2020/01, (**CPD**), [[code]](https://github.com/MCG-NJU/CPD-Video)
+
 [UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](https://arxiv.org/abs/2002.06353), arXiv 2020/02
 
 [ActBERT: Learning Global-Local Video-Text Representations](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.html), CVPR 2020
