@@ -1,5 +1,5 @@
 # Recent Advances in Vision and Language PreTrained Models (VL-PTMs)
-Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2021/02/26.
+Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2021/05/20.
 
 ## Table of Contents
 
@@ -80,6 +80,8 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 **VisualMRC**: [VisualMRC: Machine Reading Comprehension on Document Images](https://arxiv.org/abs/2101.11272), AAAI 2021, (**LayoutT5, LayoutBART**)
 
+**Visual Relationship Detection**: [Visual Relationship Detection With Visual-Linguistic Knowledge From Multimodal Representations](https://ieeexplore.ieee.org/document/9387302), 	IEEE Access 2021
+
 ## Other Analysis
 
 **Multi-task Learning**, [12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020, [[code]](https://github.com/facebookresearch/vilbert-multi-task) 
@@ -91,6 +93,8 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 **In-depth Analysis**, [Are we pretraining it right? Digging deeper into visio-linguistic pretraining](https://arxiv.org/abs/2004.08744),
 
 **In-depth Analysis**, [Behind the Scene: Revealing the Secrets of Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2005.07310), ECCV 2020 Spotlight
+
+**In-depth Analysis**, [A Closer Look at the Robustness of Vision-and-Language Pre-trained Models](https://arxiv.org/abs/2012.08673), arXiv 2020/12
 
 **Adversarial Training**, [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195), NeurIPS 2020 Spotlight
 
