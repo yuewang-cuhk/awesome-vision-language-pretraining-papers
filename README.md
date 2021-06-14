@@ -1,5 +1,5 @@
 # Recent Advances in Vision and Language PreTrained Models (VL-PTMs)
-Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.hk). Last update on 2021/05/20.
+Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com). Last update on 2021/06/14.
 
 ## Table of Contents
 
@@ -55,6 +55,14 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 [Scheduled Sampling in Vision-Language Pretraining with Decoupled Encoder-Decoder Network](https://arxiv.org/pdf/2101.11562.pdf), AAAI 2021
 
 [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334.pdf), arXiv 2021
+
+[UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/abs/2012.15409), ACL 2021 \[[code](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)\]
+
+[X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://arxiv.org/abs/2009.11278), EMNLP 2020
+
+[VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), CVPR 2021
+
+
 
 ## Task-specific
 
@@ -134,7 +142,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (yuewang@cse.cuhk.edu.
 
 [PARAMETER EFFICIENT MULTIMODAL TRANSFORMERS FOR VIDEO REPRESENTATION LEARNING](https://arxiv.org/pdf/2012.04124.pdf), arXiv 2020/12
 
-
+[Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf), CVPR 2021
 
 # Speech-based VL-PTMs
 
