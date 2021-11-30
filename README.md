@@ -62,7 +62,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), CVPR 2021
 
-
+[Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf), NeurIPS 2021
 
 ## Task-specific
 
