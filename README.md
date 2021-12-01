@@ -62,7 +62,11 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), CVPR 2021
 
+[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), ICML 2021 \[[code](https://github.com/openai/CLIP)\]
 
+[Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
+
+[Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf), arXiv 2021/11
 
 ## Task-specific
 
