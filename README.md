@@ -62,6 +62,12 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), CVPR 2021
 
+[Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110), CVPR 2021
+
+[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf), arXiv 2021/02
+
+[Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf), arXiv 2021/11
+
 
 
 ## Task-specific
@@ -112,6 +118,8 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 **Neural Architecture Search**, [Deep Multimodal Neural Architecture Search](https://arxiv.org/abs/2004.12070), arXiv 2020/04
 
 **Dataset perspective**, [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), arXiv 2021/02
+
+
 
 
 # Video-based VL-PTMs
