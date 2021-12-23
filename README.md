@@ -64,6 +64,17 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 
 [Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training](https://arxiv.org/pdf/2106.13488.pdf), NeurIPS 2021
 
+[Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110), CVPR 2021
+
+[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf), arXiv 2021/02
+
+[Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651), NeurIPS 2021 Spotlight \[[code](https://github.com/salesforce/ALBEF)\]
+
+[Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf), arXiv 2021/11
+
+
+
+
 ## Task-specific
 
 **VCR**: [Fusion of Detected Objects in Text for Visual Question Answering](https://arxiv.org/abs/1908.05054), EMNLP 2019, [[code]](https://github.com/google-research/language/tree/master/language/question_answering/b2t2), (**B2T2**)
@@ -112,6 +123,8 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 **Neural Architecture Search**, [Deep Multimodal Neural Architecture Search](https://arxiv.org/abs/2004.12070), arXiv 2020/04
 
 **Dataset perspective**, [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), arXiv 2021/02
+
+
 
 
 # Video-based VL-PTMs
