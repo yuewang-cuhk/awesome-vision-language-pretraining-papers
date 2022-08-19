@@ -70,7 +70,7 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 
 [Florence: A New Foundation Model for Computer Vision](https://arxiv.org/pdf/2111.11432.pdf), arXiv 2021/11
 
-
+[Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://arxiv.org/abs/2206.08919), ICML 2022.
 
 ## Task-specific
 
