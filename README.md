@@ -126,6 +126,8 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 
 # Video-based VL-PTMs
 
+[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935), arXiv 2026/07 [[code]](https://github.com/MCG-NJU/VideoChat3)
+
 [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766), ICCV 2019
 
 [Learning Video Representations Using Contrastive Bidirectional Transformers](https://arxiv.org/abs/1906.05743), arXiv 2019/06, (**CBT**)
@@ -176,7 +178,17 @@ Maintained by [WANG Yue](https://yuewang-cuhk.github.io/) (wangyue2714@gmail.com
 
 [Cross-Modality Relevance for Reasoning on Language and Vision](https://arxiv.org/abs/2005.06035), ACL 2020
 
+[MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276), arXiv 2026 [[code]](https://github.com/Fr0zenCrane/MJev-Spatial). Supervised spatial QA with native attention matching over structured candidate answers.
 
+[VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615), arXiv 2026 [[code]](https://github.com/MCG-NJU/VideoJev). Supervised video decision model with a shared scoring head for grounding and multiple-choice interaction.
+
+[OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762), arXiv 2026 [[code]](https://github.com/MCG-NJU/OneStreamer). Streaming caption-memory construction and learned proactive response timing.
+
+[TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423), arXiv 2026 [[code]](https://github.com/MCG-NJU/TimeLens2). Qwen3-VL adapted with SFT and reinforcement learning for temporal-evidence grounding.
+
+[JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://arxiv.org/abs/2606.14777), arXiv 2026 [[code]](https://github.com/jd-opensource/JoyAI-VL-Interaction). Vision-first model for real-time interaction and silence, response or delegation decisions.
+
+[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://proceedings.mlr.press/v306/zeng26y.html), ICML 2026 [[code]](https://github.com/MCG-NJU/Video-o3). Interleaved long-video evidence-seeking model with tool-aware attention masking and trajectory-guided reinforcement learning.
 
 # Other Resources
 
